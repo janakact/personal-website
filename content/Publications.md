@@ -1,4 +1,4 @@
-Brahmanage, J. C., Ling, J., & Kumar, A. (2023, November 2). _FlowPG: Action-constrained Policy Gradient with Normalizing Flows_. Thirty-seventh Conference on Neural Information Processing Systems. [Link](https://openreview.net/forum?id=p1gzxzJ4Y5&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FConference%2FAuthors%23your-submissions))
+Brahmanage, J. C., Ling, J., & Kumar, A. (2023, November 2). _FlowPG: Action-constrained Policy Gradient with Normalizing Flows_. Thirty-seventh Conference on Neural Information Processing Systems. [Link](https://openreview.net/forum?id=p1gzxzJ4Y5)
 
 Brahmanage, J., Kandappu, T., & Zheng, B. (2022). A data-driven approach for scheduling bus services subject to demand constraints. _IEEE Transactions on Knowledge and Data Engineering_. [Link](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8900&context=sis_research)
 
