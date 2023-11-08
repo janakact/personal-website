@@ -1,6 +1,7 @@
 ---
 title: "JavaScript: Avoid long parameter lists in method signatures"
 ---
+[Original Article](https://janakachathuranga.medium.com/javascript-avoid-long-parameter-lists-in-method-signatures-1fe0841fdb98)
 
 Actually I would say not to use more than 4 parameters. Okay?
 
@@ -18,46 +19,50 @@ The better way to do this is to wrap parameters with curly brackets and convert 
 Here comes the description of the concept.
 
 ## Instead of using this
-
-    function createPerson(firstName, lastName, height, weight, gender)
-    {
-      // function body
-    }// call
-    const person = createPerson("Arya", "Stark", 4.6, "43kg", "female");
+```ts
+function createPerson(firstName, lastName, height, weight, gender)
+{
+  // function body
+}// call
+const person = createPerson("Arya", "Stark", 4.6, "43kg", "female");
+```
 
 ## Use this
+```ts
+function createPerson(parameter){ 
+  // extract arguments
+  const firstName = parameter.firstname, 
+	  lastName = parameter.lastName, 
+	  age = parameter.age, 
+	  height = parameter.height, 
+	  weight = parameter.weight, 
+	  gender = parameter.gender ;
 
-    function createPerson(parameter){ 
-      // extract arguments
-      const firstName = parameter.firstname, 
-          lastName = parameter.lastName, 
-          age = parameter.age, 
-          height = parameter.height, 
-          weight = parameter.weight, 
-          gender = parameter.gender ;
-
-      // function body
-    }//call
-    const person = createPerson({
-         firstName:"Arya", 
-         lastName:"Stark", 
-         height: 4.6, 
-         weight: "43kg", 
-         gender: "female"
-    });
+  // function body
+}//call
+const person = createPerson({
+	 firstName:"Arya", 
+	 lastName:"Stark", 
+	 height: 4.6, 
+	 weight: "43kg", 
+	 gender: "female"
+});
+```
 
 ## Is that all?
 
 Actually you can do better thanks to [ES6’s object destructuring syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment). Where you can write following to extract arguments.
-
-    const { firstName, lastName, height, weight, gender} = parameter;
+```ts
+const { firstName, lastName, height, weight, gender} = parameter;
+```
 
 The best thing is that you can destructure the object on the method signature itself. No need of the extra variable parameter.
-
-    function createPerson({firstName, lastName, height, weight, gender})
-    {
-      // function body
-    }
+```ts
+function createPerson({firstName, lastName, height, weight, gender})
+{
+  // function body
+}
+```
 
 ![](https://cdn-images-1.medium.com/max/2000/0*jdjkIzYhlRxUgjrS.png)
 
