@@ -1,4 +1,7 @@
-# Something
+---
+title: Janaka Chathuranga
+---
+#  Something 
 
 Base
 ```js
