@@ -1,0 +1,10 @@
+# Publications
+Brahmanage, J. C., Ling, J., & Kumar, A. (2023, November 2). _FlowPG: Action-constrained Policy Gradient with Normalizing Flows_. Thirty-seventh Conference on Neural Information Processing Systems. [https://openreview.net/forum?id=p1gzxzJ4Y5&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FConference%2FAuthors%23your-submissions)](https://openreview.net/forum?id=p1gzxzJ4Y5&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FConference%2FAuthors%23your-submissions))
+
+Brahmanage, J., Kandappu, T., & Zheng, B. (2022). A data-driven approach for scheduling bus services subject to demand constraints. _IEEE Transactions on Knowledge and Data Engineering_. [https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8900&context=sis_research](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8900&context=sis_research)
+
+Brahmanage, J., Kandappu, T., & Zheng, B. (2023). MetroWatch: A predictive system to estimate travel attributes using smart card data. _2023 IEEE 39th International Conference on Data Engineering (ICDE)_, 3607–3610. [https://ieeexplore.ieee.org/document/10184634](https://ieeexplore.ieee.org/document/10184634)
+
+Chathuranga, J., Ediriweera, S., Hasantha, R., Munasinghe, P., & Ranathunga, S. (2018). Annotating opinions and opinion targets in student course feedback. _Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)_. [https://aclanthology.org/L18-1425.pdf](https://aclanthology.org/L18-1425.pdf)
+
+Chathuranga, J., Ediriweera, S., Munasinghe, P., Hasantha, R., & Ranathunga, S. (2017). Opinion target extraction for student course feedback. _Proceedings of the 29th Conference on Computational Linguistics and Speech Processing (ROCLING 2017)_, 295–307. [https://aclanthology.org/O17-1028.pdf](https://aclanthology.org/O17-1028.pdf)
