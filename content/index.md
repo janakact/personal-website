@@ -1,9 +1,4 @@
 ---
 title: Janaka Chathuranga
 ---
-#  Something 
-
-Base
-```js
-var a = 'a'
-```
+Some random details about me
