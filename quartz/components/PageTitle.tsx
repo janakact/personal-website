@@ -5,9 +5,12 @@ function PageTitle({ fileData, cfg, displayClass }: QuartzComponentProps) {
   const title = cfg?.pageTitle ?? "Untitled Quartz"
   const baseDir = pathToRoot(fileData.slug!)
   return (
-    <h1 class={`page-title ${displayClass ?? ""}`}>
-      <a href={baseDir}>{title}</a>
-    </h1>
+    <div>
+      <image src="static/photo.jpeg" width="80px" />
+      <h1 class={`page-title ${displayClass ?? ""}`}>
+        <a href={baseDir}>{title}</a>
+      </h1>
+    </div>
   )
 }
 
