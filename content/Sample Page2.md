@@ -5,7 +5,7 @@
 ### Heading 3
 
 $$
-a = y^2
+a = y^3
 $$
 
 ```desmos-graph
