@@ -1,5 +1,3 @@
-## Experience
-
 ### School of Computing and Information Systems, Singapore Management University
 - **PhD Student**  
   _Aug 2022 - Present_  
