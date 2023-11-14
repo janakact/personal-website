@@ -10,9 +10,9 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/janakact",
       "Google Scholar": "https://scholar.google.com/citations?user=E7r7hTUAAAAJ&hl=en",
       "LinkeIn": "https://www.linkedin.com/in/janakachathuranga/",
-      "Medium": "https://medium.com/@janakachathuranga"
-
-      // "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Medium": "https://medium.com/@janakachathuranga",
+      "Instagram": "https://www.instagram.com/janakact/",
+      "ORCID": "https://orcid.org/0000-0002-7267-6136"
     },
   }),
 }
@@ -28,13 +28,13 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
     // Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
+    Component.Search(),
     // Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
+    // Component.DesktopOnly(Component.TableOfContents()),
     // Component.Backlinks(),
   ],
 }

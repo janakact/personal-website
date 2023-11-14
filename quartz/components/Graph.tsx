@@ -95,6 +95,5 @@ export default ((opts?: GraphOptions) => {
 
   Graph.css = style
   Graph.afterDOMLoaded = script
-
-  return Graph
+  return  Graph
 }) satisfies QuartzComponentConstructor
