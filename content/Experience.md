@@ -6,7 +6,7 @@
   Develop algorithms for bus frequency optimization. Data-mining on transportation-system of Singapore.
 
 #### Stack Technologies (Pvt) Ltd, Colombo, Sri Lanka
-- **Solution Architect**  _Oct 2019 - Present_  
+- **Solution Architect**  _Oct 2019 - Nov 2021_  
   Leading the research team and AI and ML innovation project teams.
 
 #### Hybriteq Solutions (Pvt) Ltd, Thalahena Malambe, Sri Lanka
