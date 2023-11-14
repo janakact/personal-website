@@ -14,9 +14,9 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Times New Roman",
-        body: "Times New Roman",
-        code: "IBM Plex Mono",
+        header: "Computer Modern",
+        body: "Computer Modern",
+        code: "Computer Modern",
       },
       colors: {
         lightMode: {
@@ -25,8 +25,8 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#ba2121", // #007f00
-          tertiary: "#ba2121",
+          secondary: "#320800", // #007f00
+          tertiary: "darkred",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
