@@ -9,7 +9,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/janakact",
       "Google Scholar": "https://scholar.google.com/citations?user=E7r7hTUAAAAJ&hl=en",
-      "LinkeIn": "https://www.linkedin.com/in/janakachathuranga/"
+      "LinkeIn": "https://www.linkedin.com/in/janakachathuranga/",
+      "Medium": "https://medium.com/@janakachathuranga"
 
       // "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
@@ -21,7 +22,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    // Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
