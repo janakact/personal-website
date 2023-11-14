@@ -1,5 +1,5 @@
 ---
-title: Janaka Brahmanage
+title: Home
 ---
 I am a second-year PhD student in Computer Science, conducting research under the guidance of Associate Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar) at the [School of Computing and Information Systems, Singapore Management University (SMU)](https://scis.smu.edu.sg).
 
