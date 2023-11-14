@@ -1,5 +1,12 @@
+### School of Computing and Information Systems, Singapore Management University 
+_Aug 2022 - Present_
+- **Doctor of Philosophy (PhD), Computer Science** (reading) 
+  Specialization: Reinforcement Learning 
+  Supervisor: Associate Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar)
+  
 ### University of Moratuwa, Moratuwa, Sri Lanka
-- **B.Sc. Eng (Hons.) in Computer Science & Engineering**  _Jan 2014 - Jan 2018_  
+_Jan 2014 - Jan 2018_
+- **B.Sc. Eng (Hons.) in Computer Science & Engineering**    
   First Class Honors  
   Cumulative GPA: 3.99/4.2  
   Rank: 17th out of 125 Computer Science & Engineering graduates
