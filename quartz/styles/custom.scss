@@ -1,6 +1,11 @@
 @use "./base.scss";
 // @use "latex.min.css";
 
+footer ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
 // put your custom CSS here!
 @font-face {
 	font-family: 'Computer Modern';
