@@ -4,7 +4,7 @@ title: Awards and Honors
 
 - **NASA International Space Apps 2018**
   - World Finalist (top five teams worldwide) representing Sri Lanka
-  - Among over 25,000 participants in 69 countries
+  - Among over 25,000 participants in _69_ countries
 
 - **Mora Ventures 2.0 (2017)**
   - Winner
