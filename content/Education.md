@@ -11,7 +11,7 @@ _Jan 2014 - Jan 2018_
 #### Royal College Colombo, Sri Lanka 
 _June 2004 - August 2012_
 - **General Certificate of Education Advanced Level** in Physical Science stream    
-  University Entrance Rank: 42nd out of approximately 40,000  
+  %%University Entrance Rank: 42nd out of approximately 40,000  %%
 
 - **General Certificate of Education Ordinary Level**  
-  Junior High School; Passed with High Distinctions in 8 subjects (8 'A's and 1 'B')
+  %%Junior High School; Passed with High Distinctions in 8 subjects (8 'A's and 1 'B')%%
