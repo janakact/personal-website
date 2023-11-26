@@ -6,6 +6,7 @@ import { JSResourceToScriptElement, StaticResources } from "../util/resources"
 import { FullSlug, RelativeURL, joinSegments } from "../util/path"
 import { visit } from "unist-util-visit"
 import { Root, Element } from "hast"
+import GoogleAnalytics from "./GoogleAnalytics"
 
 interface RenderComponents {
   head: QuartzComponent

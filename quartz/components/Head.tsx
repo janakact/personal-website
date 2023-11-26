@@ -1,5 +1,6 @@
 import { FullSlug, _stripSlashes, joinSegments, pathToRoot } from "../util/path"
 import { JSResourceToScriptElement } from "../util/resources"
+import GoogleAnalytics from "./GoogleAnalytics"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 export default (() => {
@@ -16,7 +17,9 @@ export default (() => {
     const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
 
     return (
+      <>
       <head>
+        <GoogleAnalytics />
         <title>{title}</title>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -37,6 +40,7 @@ export default (() => {
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
       </head>
+      </>
     )
   }
 
