@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/janakact",
       "Google Scholar": "https://scholar.google.com/citations?user=E7r7hTUAAAAJ&hl=en",
-      "LinkeIn": "https://www.linkedin.com/in/janakachathuranga/",
+      "LinkedIn": "https://www.linkedin.com/in/janakachathuranga/",
       "Medium": "https://medium.com/@janakachathuranga",
       "Instagram": "https://www.instagram.com/janakact/",
       "ORCID": "https://orcid.org/0000-0002-7267-6136"
