@@ -4,7 +4,7 @@ title: Home
 I am a second-year PhD student in Computer Science, conducting research under the guidance of Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar) at the [School of Computing and Information Systems, Singapore Management University (SMU)](https://scis.smu.edu.sg).
 
 ## Research Interests
-Reinforcement Learning, Safe-RL, Imitation Learning, Constraint Satisfaction and Optimization
+Reinforcement Learning, Safe-RL, Imitation Learning, Constraint Satisfaction and Optimization, Category Theory
 
 ## News
 - **2024 December** - Our paper titled **ShipNaviSim: Data-Driven Simulation for Real-World Maritime Navigation** has been accepted for publication at _The 24th International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2025)_, to be held in Detroit, Michigan, USA.
