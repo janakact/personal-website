@@ -1,4 +1,8 @@
-- Brahmanage, J. C., Ling, J., & Kumar, A. (2023, November 2). FlowPG: Action-constrained Policy Gradient with Normalizing Flows. _Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)_. [Link](https://openreview.net/forum?id=p1gzxzJ4Y5)
+- Brahmanage, J. C., Ling, J., & Kumar, A. (2025) Leveraging Constraint Violation Signals For Action Constrained Reinforcement Learning. The Thirty-ninth Annual AAAI Conference on Artificial Intelligence(AAAI). **[Accepted]**
+
+- Pham, A.Q., Brahmanage, J. C., Kumar, (2025) A. ShipNaviSim: Data-Driven Simulation for RealWorld Maritime Navigation. The Twenty-Forth International Conference on Autonomous Agents and Multiagent Systems (AAMAS). **[Accepted]**
+
+- Brahmanage, J. C., Ling, J., & Kumar, A. (2023). FlowPG: Action-constrained Policy Gradient with Normalizing Flows. _Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)_. [Link](https://openreview.net/forum?id=p1gzxzJ4Y5)
 
 - Brahmanage, J., Kandappu, T., & Zheng, B. (2022). A data-driven approach for scheduling bus services subject to demand constraints. _IEEE Transactions on Knowledge and Data Engineering (TKDE)_. [Link](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8900&context=sis_research)
 
